@@ -3,6 +3,8 @@ import styled from 'styled-components';
 import facebook from '../icons/facebook.svg';
 import twitter from '../icons/twitter.svg';
 import github from '../icons/github.svg';
+import stackoverflow from '../icons/stack.svg';
+import linkedin from '../icons/linkedin.svg';
 
 const SocialMedia = () => {
 	return (
@@ -22,6 +24,16 @@ const SocialMedia = () => {
 				<li>
 					<a href="https://github.com/anujraghuvanshi" rel="noreferrer" target="_blank">
 						<img src={github} alt="Github" />
+					</a>
+				</li>
+				<li>
+					<a href="https://stackoverflow.com/users/7078456/anuj-raghuvanshi" rel="noreferrer" target="_blank">
+						<img src={stackoverflow} alt="Stackoverflow" />
+					</a>
+				</li>
+				<li>
+					<a href="https://www.linkedin.com/in/itsanujraghuvanshi/" rel="noreferrer" target="_blank">
+						<img src={linkedin} alt="Linkedin" />
 					</a>
 				</li>
 			</ul>
@@ -76,6 +88,18 @@ const SocialMediaStyled = styled.div`
 				a {
 					background-color: #222;
 					border-color: #222;
+				}
+			}
+			&:nth-of-type(4) {
+				a {
+					background-color: #F47F24;
+					border-color: #F47F24;
+				}
+			}
+			&:nth-of-type(5) {
+				a {
+					background-color: #0e76a8;
+					border-color: #0e76a8;
 				}
 			}
 			&:hover {
