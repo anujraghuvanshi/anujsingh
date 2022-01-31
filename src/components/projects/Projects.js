@@ -44,7 +44,7 @@ const client = new ApolloClient({
 })
 
 const queryInfo = {
-  owner: 'jigalin',
+  owner: 'anujraghuvanshi',
   repositories: [
     'portfolio-landing-page',
     'react-pokedex',
@@ -140,7 +140,7 @@ const Projects = () => {
             <div className="more-projects-wrapper">
               <a
                 className="project-link"
-                href={'https://github.com/jigalin'}
+                href={'https://github.com/anujraghuvanshi'}
                 target="_blank"
                 rel="noopener noreferrer"
               >
