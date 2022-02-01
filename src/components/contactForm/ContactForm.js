@@ -71,8 +71,21 @@ const ContactForm = () => {
 
   const classes = useStyles()
 
+  const validateEmail = (email) => {
+    return email.match(
+      /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
+    );
+  };
+  
+
   const submitForm = (ev) => {
     ev.preventDefault()
+    console.log('submitForm', emailText, messageText)
+    if(!emailText || !messageText) {
+      setStatus('Please Complete the form to contact.')
+      return
+    }
+
     const form = ev.target
     const data = new FormData(form)
     const xhr = new XMLHttpRequest()
@@ -107,7 +120,7 @@ const ContactForm = () => {
       <form
         className="contact-form"
         onSubmit={submitForm}
-        action="https://formspree.io/mvolplar"
+        action="https://formspree.io/f/xayvejyv"
         method="POST"
       >
         <TextField
@@ -138,6 +151,10 @@ const ContactForm = () => {
           </Button>
         )}
         {status === 'ERROR' && <p>Ooops! There was an error.</p>}
+        {(status 
+          && status !== 'SUCCESS' 
+          && status !== 'ERROR')  && <p>{status}</p>
+        }
       </form>
     </div>
   )

@@ -4,6 +4,7 @@
   cursor: default;
 }
 .project-card-wrapper {
+  width: 98%;
   margin: 20px 0px 20px 0px;
 }
 .project-card {
