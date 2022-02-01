@@ -16,7 +16,7 @@
 }
 .project-card-wrapper:hover .project-card {
   background-color: #474f63;
-  transform: translateX(-10px);
+  transform: translateY(-7px);
 }
 .project-name {
   display: flex;
