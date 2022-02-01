@@ -2,7 +2,7 @@
   "featured_projects": [
     {
       "id": 0,
-      "name": "Cactus",
+      "name": "worksdelight",
       "link": "https://www.cactuscan.com/",
       "description": "🌵 A responsive multi-page website made with wordpress for ease of updating & blog functionality. Used jQuery for custom animations and extension integration.",
       "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
@@ -13,7 +13,7 @@
     },
     {
       "id": 1,
-      "name": "Bartini",
+      "name": "worksdelight",
       "link": "https://www.bartiniapp.com/",
       "description": "🍹 A cocktail-making web application. Users can input ingredients and browse cocktails that can be made. Responsible for UI/UX on mobile & web.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
