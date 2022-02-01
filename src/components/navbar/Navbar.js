@@ -28,6 +28,11 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="navlink-wrapper">
+          <Link to="skills" spy={true} smooth={true} duration={500}>
+            SKILLS
+          </Link>
+        </div>
+        <div className="navlink-wrapper">
           <Link to="experience" spy={true} smooth={true} duration={500}>
             EXPERIENCE
           </Link>

@@ -29,7 +29,7 @@
   display: flex;
   align-items: center;
   border-top: 1px solid white;
-  width: 70%;
+  /* width: 70%; */
 }
 .skills-wrapper {
   position: relative;
@@ -43,7 +43,7 @@
   list-style: none;
   font-size: 3rem;
   margin: 0 auto;
-  width: 90%;
+  width: 100%;
 }
 .skill-bar-wrapper {
   overflow: hidden;
