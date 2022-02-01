@@ -2,9 +2,9 @@
   "featured_projects": [
     {
       "id": 0,
-      "name": "worksdelight",
-      "link": "https://www.cactuscan.com/",
-      "description": "🌵 A responsive multi-page website made with wordpress for ease of updating & blog functionality. Used jQuery for custom animations and extension integration.",
+      "name": "JobProgrews",
+      "link": "https://jobprogress.com/",
+      "description": "JOBPROGRESS is a tool for contractors that allow you to manage your entire business & estimate, invoice, organize, communicate, and manage customers & jobs from anywhere.",
       "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
       "languages": [
         { "name": "Jquery", "color": "rgb(241, 224, 90)" },
@@ -13,9 +13,9 @@
     },
     {
       "id": 1,
-      "name": "worksdelight",
-      "link": "https://www.bartiniapp.com/",
-      "description": "🍹 A cocktail-making web application. Users can input ingredients and browse cocktails that can be made. Responsible for UI/UX on mobile & web.",
+      "name": "Kelle (KWRI)",
+      "link": "https://kw.com/",
+      "description": "Kelle is the first AI partner of KWRI who knows all about real estate and YOUR business. Manage your database, find info quickly, track your goals, check your schedule, and grow your referral network – anytime, anywhere.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
         { "name": "JavaScript", "color": "rgb(241, 224, 90)" },
