@@ -2,7 +2,7 @@
   "featured_projects": [
     {
       "id": 0,
-      "name": "JobProgrews",
+      "name": "JobProgress",
       "link": "https://jobprogress.com/",
       "description": "JOBPROGRESS is a tool for contractors that allow you to manage your entire business & estimate, invoice, organize, communicate, and manage customers & jobs from anywhere.",
       "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
