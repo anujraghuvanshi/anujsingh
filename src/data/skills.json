@@ -1,37 +1,23 @@
 {
   "skills": [
-    {
-      "id": 0,
-      "skillName": "Design",
-      "amount": "95"
-    },
-    {
-      "id": 1,
-      "skillName": "React.js",
-      "amount": "90"
-    },
-    {
-      "id": 2,
-      "skillName": "Photoshop",
-      "amount": "90"
-    },
-    { "id": 3, "skillName": "Javascript", "amount": "85" },
-    {
-      "id": 4,
-      "skillName": "Node.js",
-      "amount": "80"
-    },
-    {
-      "id": 5,
-      "skillName": "REST",
-      "amount": "75"
-    },
-    { "id": 6, "skillName": "Apollo", "amount": "70" },
-    { "id": 7, "skillName": "Gatsby", "amount": "70" },
-    {
-      "id": 8,
-      "skillName": "Backend",
-      "amount": "60"
-    }
+    { "id": 0, "skillName": "React Native", "amount": "95" },
+    { "id": 1, "skillName": "React.js", "amount": "90" },
+    { "id": 3, "skillName": "Javascript", "amount": "90" },
+    { "id": 4, "skillName": "Ionic", "amount": "75"},
+    { "id": 5, "skillName": "Angular", "amount": "70" },
+    { "id": 6, "skillName": "Angularjs", "amount": "70" },
+    { "id": 7, "skillName": "Objective C", "amount": "70" },
+    { "id": 8, "skillName": "HTML", "amount": "70" },
+    { "id": 9, "skillName": "CSS", "amount": "70" },
+    { "id": 10, "skillName": "Bootstrap", "amount": "70" },
+    { "id": 11, "skillName": "Jquery", "amount": "70" },
+    { "id": 12, "skillName": "iOS", "amount": "85" },
+    { "id": 13, "skillName": "Android", "amount": "80" },
+    { "id": 14, "skillName": "XCode", "amount": "60"},
+    { "id": 15, "skillName": "Github", "amount": "60"},
+    { "id": 16, "skillName": "Bitbucket", "amount": "60"},
+    { "id": 17, "skillName": "Sourcetree", "amount": "60"},
+    { "id": 18, "skillName": "JIRA", "amount": "60"},
+    { "id": 19, "skillName": "Trello", "amount": "60"}
   ]
 }

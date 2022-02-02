@@ -34,7 +34,7 @@
 .skills-wrapper {
   position: relative;
   width: 100%;
-  max-width: 600px;
+  /* max-width: 600px; */
   text-align: center;
 }
 .skills {
@@ -48,11 +48,16 @@
 .skill-bar-wrapper {
   overflow: hidden;
   position: relative;
-  display: flex;
+  display: inline-block;
   background-color: #3e4555;
   border-radius: 2px;
   height: 30px;
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 0 8px;
 }
 .skill-bar {
   margin-bottom: 20px;
@@ -74,12 +79,13 @@
     align-items: center;
     border-radius: 2px 0px 0px 2px;
     left: 0;
-    width: 80px;
+    width: 100px;
     height: 30px;
     font-size: 12px;
     background-color: #39b175;
     font-weight: 600;
     color: white;
+    bottom: 0;
   }
 }
 @media screen and (max-width: 959px) and (min-width: 600px) {
