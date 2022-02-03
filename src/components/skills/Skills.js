@@ -31,10 +31,13 @@ const Skills = () => {
 								>
 									{/* <h2>Skills</h2> */}
 									<ul className="skills" ref={skillsWrapper} sty>
-										{skills.map((skills) => {
+										{skills.map((skill, i) => {
 											return (
-												<li className="skill-bar-wrapper" key={skills.skillName}>
-													<div className="skill-name">{skills.skillName}</div>
+												<li className="skill-bar-wrapper" key={i}>
+													<div style={{ marginTop: '11px' }}>
+														<i className={skill.class}></i>
+													</div>
+													<div className="skill-name">{skill.skillName}</div>
 												</li>
 											)
 										})}
