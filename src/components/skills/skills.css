@@ -1,6 +1,14 @@
 .skills {
     background-color: #2c323f;
 }
+.skill-bar-wrapper {
+    transition: 0.2s;
+}
+.skill-bar-wrapper:hover  {
+    cursor: pointer;
+    transform: scale(1.08);
+    background-color: #474f63;
+}
 .skills-content{
     display: flex;
     align-items: center;
