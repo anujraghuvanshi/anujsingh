@@ -33,13 +33,14 @@
 }
 .skills-wrapper {
   position: relative;
-  width: 100%;
+  /* width: 100%; */
   /* max-width: 600px; */
   text-align: center;
 }
 .skills {
   position: relative;
   padding-left: 0;
+  padding-right: 0;
   list-style: none;
   font-size: 3rem;
   margin: 0 auto;

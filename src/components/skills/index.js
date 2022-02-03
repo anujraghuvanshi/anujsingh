@@ -26,7 +26,7 @@ const Skills = () => {
               }
             >
               <h2>Skills</h2>
-              <ul className="skills" ref={skillsWrapper}>
+              <ul className="skills-container" ref={skillsWrapper}>
                 {skills.map((skills) => {
                   return (
                     <li className="skill-bar-wrapper" key={skills.skillName}>
