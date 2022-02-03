@@ -24,8 +24,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I'm a software engineer focusing on Mobile App, Web App
-              Development & emerging Tech as Blockchain.
+              Hey! I'm a software engineer with a focus on Mobile App Development along with having knowledge of full-stack development. I am desperate on learning new things from new people.
             </p>
             <p>
               <span role="img" aria-label="lightning">
@@ -97,7 +96,7 @@ const About = () => {
                   d="M11.536 3.464a5 5 0 010 7.072L8 14.07l-3.536-3.535a5 5 0 117.072-7.072v.001zm1.06 8.132a6.5 6.5 0 10-9.192 0l3.535 3.536a1.5 1.5 0 002.122 0l3.535-3.536zM8 9a2 2 0 100-4 2 2 0 000 4z"
                 ></path>
               </svg>
-              <p>Mohali, India</p>
+              <p>Punjab, India</p>
             </div>
           </div>
         </Fade>

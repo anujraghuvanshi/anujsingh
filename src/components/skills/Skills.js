@@ -30,9 +30,10 @@ const Skills = () => {
 									}
 								>
 									{/* <h2>Skills</h2> */}
-									<ul className="skills" ref={skillsWrapper} sty>
+									<ul className="skills" ref={skillsWrapper}>
 										{skills.map((skill, i) => {
 											return (
+												
 												<li className="skill-bar-wrapper" key={i}>
 													<div style={{ marginTop: '11px' }}>
 														<i className={skill.class}></i>
