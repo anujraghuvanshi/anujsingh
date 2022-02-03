@@ -48,13 +48,13 @@ const Home = () => {
               />
             </h1>
             <Bounce cascade>
-              <div className="links">
+              <div className="resume-container">
                 <a
-                  href="https://www.linkedin.com/in/itsanujraghuvanshi/"
+                  href="https://drive.google.com/file/d/1zFjr9mzt-n5n2tGBZsXF3j_J1cSypbri/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src={linkedin} alt="Linkedin Logo" width="50px" />
+                  Download Resume
                 </a>
               </div>
             </Bounce>
