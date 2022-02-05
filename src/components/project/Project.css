@@ -70,7 +70,13 @@
 .project-size {
   font-size: small;
 }
-
+.project-description {
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;  /* Number of lines displayed before it truncate */
+  overflow: hidden;
+}
 @media screen and (max-width: 599px) {
   .project-card-wrapper:hover .project-card {
     background-color: #3b4353;
