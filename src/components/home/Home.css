@@ -87,13 +87,12 @@
   background-color: #272b33;
   border: 3px solid #0be779;
   color: #ffffff;
-  transition: 0.2s;
 }
-.links a:hover {
-  background-color: #272b33;
-  border: 3px solid #ffffff;
-  color: #0be779;
-  transform: scale(2);
+.links img{
+  transition: 0.2s ease-in-out;
+}
+.links a:hover img{
+  transform: scale(1.2);
 }
 
 .scroll-down-element {
