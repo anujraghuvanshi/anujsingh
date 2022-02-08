@@ -9,20 +9,20 @@ const Projects = () => {
 
   return (
     <Section title="Projects">
-        <div className="projects-content">
-          <ul className="projects-list">
-            {featured_projects.map((project) => {
-              return (
-                <li key={project.name}>
-                  <Fade bottom duration={1000} distance="20px">
-                    <Project project={project}/>
-                  </Fade>
-                </li>
-              )
-            })}
-          </ul>
-        </div>
-      </Section>
+      <div className="projects-content">
+        <ul className="projects-list">
+          {featured_projects.map((project) => {
+            return (
+              <li key={project.name}>
+                <Fade bottom duration={1000} distance="20px">
+                  <Project project={project} />
+                </Fade>
+              </li>
+            )
+          })}
+        </ul>
+      </div>
+    </Section>
   )
 }
 
