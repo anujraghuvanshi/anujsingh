@@ -49,11 +49,14 @@ const Project = ({ project, type }) => {
                 </div>
               ))}
             </div>
-            <div className="project-info-right">
-              <a href={project.link} target="_">
-                <img src={require('../../images/next.png')} alt="next"/>
-              </a>
-            </div>
+            {
+              project.link && 
+              <div className="project-info-right">
+                <a href={project.link} target="_">
+                  <img src={require('../../images/next.png')} alt="next"/>
+                </a>
+              </div>
+            }
           </div>
         </div>
       </div>
