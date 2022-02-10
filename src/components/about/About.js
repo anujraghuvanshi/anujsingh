@@ -30,8 +30,13 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              I work with React Native, React.js, javascript, Angular, Android &
-              iOS.
+              I have done <b>MCA</b> from <b>Lovely Professional University.</b>
+            </p>
+            <p>
+              <span role="img" aria-label="lightning">
+                ⚡
+              </span>{' '}
+              I work with React Native, React.js, javascript, Angular, Android & iOS.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
@@ -44,7 +49,6 @@ const About = () => {
                 options={{
                   strings: [
                     'learning new technologies',
-                    'exercising',
                     'solving complex problems',
                     'fixing hard-to-fix bugs',
                     'trying new things',
