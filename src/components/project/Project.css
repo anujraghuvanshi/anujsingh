@@ -53,6 +53,15 @@
   display: flex;
   justify-content: right;
 }
+.project-info-right img{
+  height: 35px;
+  width: 35px;
+  transition: 0.2s ease-in-out;
+}
+.project-info-right img:hover{
+  transform: scale(1.2);
+}
+
 .language {
   display: flex;
   align-items: center;
