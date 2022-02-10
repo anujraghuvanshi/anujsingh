@@ -2,13 +2,11 @@ import React, { useRef } from 'react'
 import IsVisible from 'react-is-visible'
 import { Fade } from 'react-reveal'
 import { skills } from '../../data/skills.json'
-import { useContainerDimensions } from '../../hooks'
 import Section from '../section/Section'
 import './skills.css'
 
 const Skills = () => {
 	const skillsWrapper = useRef()
-	const { width } = useContainerDimensions(skillsWrapper)
 
 	return (
 		<Section title="Skills">
