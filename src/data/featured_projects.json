@@ -9,7 +9,8 @@
         { "name": "Ionic", "color": "#498AFF" },
         { "name": "Angular", "color": "#dd1b16" },
         { "name": "Jquery", "color": "#0868AC" }
-      ]
+      ],
+      "type": "mobile"
     },
     {
       "name": "Kelle (KWRI)",
@@ -19,7 +20,8 @@
       "languages": [
         { "name": "React Native", "color": "#61DBFB" },
         { "name": "Redux", "color": "#764abc" }
-      ]
+      ],
+      "type": "mobile"
     },
     {
       "name": "EroofPro",
@@ -29,7 +31,8 @@
       "languages": [
         { "name": "Ionic", "color": "#498AFF" },
         { "name": "AngularJS", "color": "#dd1b16" }
-      ]
+      ],
+      "type": "mobile"
     },
     {
       "name": "OrderArt",
@@ -39,7 +42,8 @@
       "languages": [
         { "name": "React Native", "color": "#61DBFB" },
         { "name": "Redux", "color": "#764abc" }
-      ]
+      ],
+      "type": "mobile"
     },
     {
       "name": "Saarthi",
@@ -49,7 +53,8 @@
       "languages": [
         { "name": "Ionic", "color": "#498AFF" },
         { "name": "Angular", "color": "#b52e31" }
-      ]
+      ],
+      "type": "mobile"
     },
     {
       "name": "Zaatar w Zeit",
@@ -59,7 +64,8 @@
       "languages": [
         { "name": "React Native", "color": "#61DBFB" },
         { "name": "Redux", "color": "#764abc" }
-      ]
+      ],
+      "type": "mobile"
     },
     {
       "name": "Deek Duke Go",
@@ -69,7 +75,8 @@
       "languages": [
         { "name": "React Native", "color": "#61DBFB" },
         { "name": "Redux", "color": "#764abc" }
-      ]
+      ],
+      "type": "mobile"
     },
     {
       "name": "Go Play Polo",
@@ -78,8 +85,9 @@
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
         { "name": "React Native", "color": "#61DBFB" },
-        { "name": "Redux", "color": "#764abc" }
-      ]
+        { ",name": "Redux", "color": "#764abc" }
+      ],
+      "type": "mobile"
     }
   ]
 }
