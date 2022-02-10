@@ -1,7 +1,6 @@
 {
   "featured_projects": [
     {
-      "id": 0,
       "name": "JobProgress",
       "link": "https://apps.apple.com/in/app/jobprogress/id1063635242",
       "description": "JOBPROGRESS is a tool for contractors that allow you to manage your entire business & estimate, invoice, organize, communicate, and manage customers & jobs from anywhere.",
@@ -13,7 +12,6 @@
       ]
     },
     {
-      "id": 1,
       "name": "Kelle (KWRI)",
       "link": "https://apps.apple.com/us/app/kelle/id1257127586",
       "description": "Kelle is the first AI partner of KWRI who knows all about real estate and YOUR business. Manage your database, find info quickly, track your goals, check your schedule, and grow your referral network – anytime, anywhere.",
@@ -24,7 +22,6 @@
       ]
     },
     {
-      "id": 3,
       "name": "EroofPro",
       "link": "https://apps.apple.com/us/app/eroofpro/id1208109657",
       "description": "Roofing Proposal App for Home Owners & Roofing Contractors. Helps to find roofing contractor for your house roofing job quickly and conveniently.",
@@ -35,7 +32,6 @@
       ]
     },
     {
-      "id": 4,
       "name": "OrderArt",
       "link": "https://apps.apple.com/eg/app/orderart/id1569441873#?platform=iphone",
       "description": "OrderArt is a SaaS platform for restaurants. The app allows clients to accept/reject orders and bookings, respond to customer grievance, disable services or items, alter minimum takeaway or delivery times, print dockets etc.",
@@ -46,7 +42,6 @@
       ]
     },
     {
-      "id": 5,
       "name": "Saarthi",
       "link": "https://play.google.com/store/apps/details?id=io.ionic.saarthi",
       "description": "Saarthi manages B2B online for wholesale garments. This provides easy way to take stock from different hosiery parteners",
@@ -57,7 +52,6 @@
       ]
     },
     {
-      "id": 6,
       "name": "Zaatar w Zeit",
       "link": "https://apps.apple.com/us/app/zaatar-w-zeit-uae/id522496472",
       "description": "Zaatar w Zeit UAE's mobile ordering app makes it easier to enjoy your favorite Zaatar w Zeit items, without the ordering hassle! Download our APP, browse through the different features, add, customize, save to your favorites, schedule, pay, and much more with a few clicks.",
@@ -68,7 +62,6 @@
       ]
     },
     {
-      "id": 7,
       "name": "Deek Duke Go",
       "link": "https://apps.apple.com/in/app/deek-duke-go/id1205636562",
       "description": "Deek Duke Go is Lebanon’s official mobile app for Food Ordering offering Scan, Play & Win Challenges. Also provide option to schedule delivery and various modes of payment and partial payments (which includes coins earned) while purchase.",
@@ -79,7 +72,6 @@
       ]
     },
     {
-      "id": 8,
       "name": "Go Play Polo",
       "link": "https://apps.apple.com/us/app/goplaypolo/id1526930113",
       "description": "Go Play Polo is the easiest way to stay connected to your waterpolo team! It is developed to help coaches and players manage their teams, practices and games all in one app.",
