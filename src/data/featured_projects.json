@@ -91,7 +91,7 @@
     },
     {
       "name": "MGSVY",
-      "description": "MGSVY is acronym of Mahtma Gandhi Sarbat Vikas Yojna. This app is used to provide Govt driven free facilities to Villagers. Users can Signup/Login & Register via form to avail benifits.",
+      "description": "MGSVY is acronym of Mahtma Gandhi Sarbat Vikas Yojna. This app is used to provide Govt. driven free facilities/benifits to Village/Rural people. Users can Signup/Login & Register via form in app to avail benifits.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
         { "name": "Flutter", "color": "#32b1ec" }
