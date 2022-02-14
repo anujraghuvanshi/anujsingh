@@ -95,7 +95,7 @@
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
         { "name": "Flutter", "color": "#32b1ec" },
-        { "name": "Angular", "color": "#dd1b16" }
+        { "name": "React.js", "color": "#dd1b16" }
       ],
       "type": "mobile"
     }
