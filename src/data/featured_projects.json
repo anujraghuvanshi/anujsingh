@@ -95,7 +95,8 @@
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
         { "name": "Flutter", "color": "#32b1ec" },
-        { "name": "React.js", "color": "#dd1b16" }
+        { "name": "React.js", "color": "#dd1b16" },
+        { "name": "Node.js", "color": "#68A063" }
       ],
       "type": "mobile"
     },
@@ -105,7 +106,8 @@
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
         { "name": "Ionic", "color": "#498AFF" },
-        { "name": "React.js", "color": "#dd1b16" }
+        { "name": "React.js", "color": "#dd1b16" },
+        { "name": "Node.js", "color": "#68A063" }
       ],
       "type": "mobile"
     }
