@@ -107,6 +107,7 @@
       "languages": [
         { "name": "Ionic", "color": "#498AFF" },
         { "name": "React.js", "color": "#dd1b16" },
+        { "name": "Node.js", "color": "#68A063" }
       ],
       "type": "stack"
     }
