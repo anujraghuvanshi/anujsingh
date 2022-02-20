@@ -102,7 +102,7 @@
     },
     {
       "name": "Farm 360 📱,🌐",
-      "description": "Farm 360 is built for providing A-Z solutions for Farm operations. All fields can be located from map. It also maintain records for Workers, Fuel consumed etc.",
+      "description": "Farm 360 is built for providing A-Z solutions for Farm operations. All fields can be located from map. It also maintain records for Workers, Fuel consumed etc",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
         { "name": "Ionic", "color": "#498AFF" },
