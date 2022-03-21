@@ -90,6 +90,17 @@
       "type": "mobile"
     },
     {
+      "name": "The Look",
+      "link": "https://apps.apple.com/us/app/the-look/id1612880551?platform=iphone",
+      "description": "THE LOOK is THE DESTINATION for personal stylists, shoppers, and fashion designers. On THE LOOK, clothing is exciting, interactive, and fun.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "React Native", "color": "#61DBFB" },
+        { "name": "Expo", "color": "#fff" }
+      ],
+      "type": "mobile"
+    },
+    {
       "name": "MGSVY 📱,🌐",
       "description": "MGSVY is acronym of Mahtma Gandhi Sarbat Vikas Yojna. This app is used to provide Govt. driven free facilities/benifits to Village/Rural people. Users can Signup/Login & Register via form in app to avail benifits.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
