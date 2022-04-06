@@ -24,17 +24,6 @@
       "type": "mobile"
     },
     {
-      "name": "EroofPro",
-      "link": "https://apps.apple.com/us/app/eroofpro/id1208109657",
-      "description": "Roofing Proposal App for Home Owners & Roofing Contractors. Helps to find roofing contractor for your house roofing job quickly and conveniently.",
-      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
-      "languages": [
-        { "name": "Ionic", "color": "#498AFF" },
-        { "name": "AngularJS", "color": "#dd1b16" }
-      ],
-      "type": "mobile"
-    },
-    {
       "name": "OrderArt",
       "link": "https://apps.apple.com/eg/app/orderart/id1569441873#?platform=iphone",
       "description": "OrderArt is a SaaS platform for restaurants. The app allows clients to accept/reject orders and bookings, respond to customer grievance, disable services or items, alter minimum takeaway or delivery times, print dockets etc.",
@@ -42,17 +31,6 @@
       "languages": [
         { "name": "React Native", "color": "#61DBFB" },
         { "name": "Redux", "color": "#764abc" }
-      ],
-      "type": "mobile"
-    },
-    {
-      "name": "Saarthi",
-      "link": "https://play.google.com/store/apps/details?id=io.ionic.saarthi",
-      "description": "Saarthi manages B2B online for wholesale garments. This provides easy way to take stock from different hosiery parteners",
-      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
-      "languages": [
-        { "name": "Ionic", "color": "#498AFF" },
-        { "name": "Angular", "color": "#b52e31" }
       ],
       "type": "mobile"
     },
@@ -97,6 +75,28 @@
       "languages": [
         { "name": "React Native", "color": "#61DBFB" },
         { "name": "Expo", "color": "#fff" }
+      ],
+      "type": "mobile"
+    },
+    {
+      "name": "Saarthi",
+      "link": "https://play.google.com/store/apps/details?id=io.ionic.saarthi",
+      "description": "Saarthi manages B2B online for wholesale garments. This provides easy way to take stock from different hosiery parteners",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "Ionic", "color": "#498AFF" },
+        { "name": "Angular", "color": "#b52e31" }
+      ],
+      "type": "mobile"
+    },
+    {
+      "name": "EroofPro",
+      "link": "https://apps.apple.com/us/app/eroofpro/id1208109657",
+      "description": "Roofing Proposal App for Home Owners & Roofing Contractors. Helps to find roofing contractor for your house roofing job quickly and conveniently.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "Ionic", "color": "#498AFF" },
+        { "name": "AngularJS", "color": "#dd1b16" }
       ],
       "type": "mobile"
     },
