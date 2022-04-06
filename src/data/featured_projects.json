@@ -35,6 +35,28 @@
       "type": "mobile"
     },
     {
+      "name": "OOTI",
+      "link": "https://apps.apple.com/us/app/ooti/id1310512428",
+      "description": "OOTI is designed and built to meet the needs of your architecture firm, OOTI is the smartest project management software available today. Whether you are a freelancer, running a startup, a small business or a large company, OOTI will help you track projects, time, resources and finances.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "React Native", "color": "#61DBFB" },
+        { "name": "Redux", "color": "#764abc" }
+      ],
+      "type": "mobile"
+    },
+    {
+      "name": "Train Effective",
+      "link": "https://apps.apple.com/us/app/train-effective-soccer-academy/id1425844780?platform=iphone",
+      "description": "Train Effective is digital Soccer academy.  This soccer training app delivers one of the most comprehensive learning platforms for aspiring soccer players of every level. Train Effective enables its members to experience professional academy-like soccer training at home. You will improve your 1. technique, 2. tactical knowledge, 3. fitness and 4. mentality.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "React Native", "color": "#61DBFB" },
+        { "name": "Redux", "color": "#764abc" }
+      ],
+      "type": "mobile"
+    },
+    {
       "name": "Zaatar w Zeit",
       "link": "https://apps.apple.com/us/app/zaatar-w-zeit-uae/id522496472",
       "description": "Zaatar w Zeit UAE's mobile ordering app makes it easier to enjoy your favorite Zaatar w Zeit items, without the ordering hassle! Download our APP, browse through the different features, add, customize, save to your favorites, schedule, pay, and much more with a few clicks.",
