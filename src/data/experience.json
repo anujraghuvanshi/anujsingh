@@ -23,29 +23,6 @@
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #a31013, #ed4043)",
       "colourSecondary": "linear-gradient(to bottom, #a31013, #ed4043)"
-    },
-    {
-      "id": 0,
-      "link": "https://worksdelight.com/",
-      "company": "Worksdelight",
-      "title": "Sr. Mobile App Developer",
-      "dateFrom": "May 2021",
-      "dateTo": "Current",
-      "info": [
-        "Responsible for web team front-end development and design",
-        "Responsible for React Native Development & design."
-      ],
-      "stack": [
-        "React Native",
-        "React.js",
-        "Angular",
-        "Javascript",
-        "Firebase",
-        "Nodejs"
-      ],
-      "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #62cd70, #cfefd1)",
-      "colourSecondary": "linear-gradient(to bottom, #62cd70, #cfefd1)"
     }
   ]
 }
