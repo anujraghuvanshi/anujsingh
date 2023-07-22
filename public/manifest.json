@@ -30,10 +30,10 @@
   "background_color": "#ffffff",
   "shortcuts": [
     {
-      "name": "How's weather today?",
-      "short_name": "Today",
-      "description": "View weather information for today",
-      "url": "/today?source=pwa",
+      "name": "Want to more About me ?",
+      "short_name": "Know more",
+      "description": "Want to more About me ?",
+      "url": "/",
       "icons": [
         {
           "src": "/images/today.png",
