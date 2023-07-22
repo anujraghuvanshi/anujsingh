@@ -30,9 +30,9 @@
   "background_color": "#ffffff",
   "shortcuts": [
     {
-      "name": "Want to more About me ?",
-      "short_name": "Want to more About me ?",
-      "description": "Want to more About me ?",
+      "name": "Want to know more About me ?",
+      "short_name": "Want to know more About me ?",
+      "description": "Want to know more About me ?",
       "url": "/",
       "icons": [
         {
