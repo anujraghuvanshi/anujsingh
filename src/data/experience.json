@@ -46,6 +46,30 @@
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #62cd70, #cfefd1)",
       "colourSecondary": "linear-gradient(to bottom, #62cd70, #cfefd1)"
+    },
+    {
+      "id": 3,
+      "link": "https://geekyants.com/",
+      "company": "GeekyAnts",
+      "title": "Sr. Software Engineer",
+      "dateFrom": "Aug 2021",
+      "dateTo": "Current",
+      "info": [
+        "Develop products of Americal SaaS & Real Estate clients.",
+        "Team Management along with Sprint & Release plans."
+      ],
+      "stack": [
+        "Ionic",
+        "Angularjs",
+        "Objective C",
+        "Swift",
+        "React.js",
+        "React Native",
+        "Flutter"
+      ],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #CA0000, #ed4043)",
+      "colourSecondary": "linear-gradient(to bottom, #CA0000, #ed4043)"
     }
   ]
 }
