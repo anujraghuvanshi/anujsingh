@@ -28,7 +28,7 @@
       "id": 0,
       "link": "https://worksdelight.com/",
       "company": "Worksdelight",
-      "title": "Sr. Mobile App Developer",
+      "title": "Team Lead (JS / React.js / React Native)",
       "dateFrom": "May 2021",
       "dateTo": "July 2022",
       "info": [
@@ -52,20 +52,21 @@
       "link": "https://geekyants.com/",
       "company": "GeekyAnts",
       "title": "Sr. Software Engineer",
-      "dateFrom": "Aug 2021",
+      "dateFrom": "Aug 2022",
       "dateTo": "Current",
       "info": [
-        "Develop products of American SaaS & Real Estate clients.",
+        "Develop products for Tele-communication industry.",
         "Team Management along with Sprint & Release plans."
       ],
       "stack": [
-        "Ionic",
-        "Angularjs",
-        "Objective C",
-        "Swift",
         "React.js",
+        "Redux",
+        "Firebase",
+        "Android",
+        "iOS",
         "React Native",
-        "Flutter"
+        "Flutter",
+        "Genesys"
       ],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #CA0000, #ed4043)",
