@@ -8,7 +8,7 @@
       "dateFrom": "Sept 2016",
       "dateTo": "May 2021",
       "info": [
-        "Develop products of Americal SaaS & Real Estate clients.",
+        "Develop products of American SaaS & Real Estate clients.",
         "Team Management along with Sprint & Release plans."
       ],
       "stack": [
@@ -28,7 +28,7 @@
       "id": 0,
       "link": "https://worksdelight.com/",
       "company": "Worksdelight",
-      "title": "Sr. Mobile App Developer",
+      "title": "Team Lead (JS / React.js / React Native)",
       "dateFrom": "May 2021",
       "dateTo": "July 2022",
       "info": [
@@ -46,6 +46,31 @@
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #62cd70, #cfefd1)",
       "colourSecondary": "linear-gradient(to bottom, #62cd70, #cfefd1)"
+    },
+    {
+      "id": 3,
+      "link": "https://geekyants.com/",
+      "company": "GeekyAnts",
+      "title": "Sr. Software Engineer",
+      "dateFrom": "Aug 2022",
+      "dateTo": "Current",
+      "info": [
+        "Develop products for Tele-communication industry.",
+        "Team Management along with Sprint & Release plans."
+      ],
+      "stack": [
+        "React.js",
+        "Redux",
+        "Firebase",
+        "Android",
+        "iOS",
+        "React Native",
+        "Flutter",
+        "Genesys"
+      ],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #CA0000, #ed4043)",
+      "colourSecondary": "linear-gradient(to bottom, #CA0000, #ed4043)"
     }
   ]
 }

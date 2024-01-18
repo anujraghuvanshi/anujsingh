@@ -6,9 +6,18 @@
       "description": "JOBPROGRESS is a tool for contractors that allow you to manage your entire business & estimate, invoice, organize, communicate, and manage customers & jobs from anywhere.",
       "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
       "languages": [
-        { "name": "Ionic", "color": "#498AFF" },
-        { "name": "Angular", "color": "#dd1b16" },
-        { "name": "Jquery", "color": "#0868AC" }
+        {
+          "name": "Ionic",
+          "color": "#498AFF"
+        },
+        {
+          "name": "Angular",
+          "color": "#dd1b16"
+        },
+        {
+          "name": "Jquery",
+          "color": "#0868AC"
+        }
       ],
       "type": "mobile"
     },
@@ -18,8 +27,14 @@
       "description": "Kelle is the first AI partner of KWRI who knows all about real estate and YOUR business. Manage your database, find info quickly, track your goals, check your schedule, and grow your referral network – anytime, anywhere.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "React Native", "color": "#61DBFB" },
-        { "name": "Redux", "color": "#764abc" }
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
       ],
       "type": "mobile"
     },
@@ -29,8 +44,14 @@
       "description": "OrderArt is a SaaS platform for restaurants. The app allows clients to accept/reject orders and bookings, respond to customer grievance, disable services or items, alter minimum takeaway or delivery times, print dockets etc.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "React Native", "color": "#61DBFB" },
-        { "name": "Redux", "color": "#764abc" }
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
       ],
       "type": "mobile"
     },
@@ -40,8 +61,14 @@
       "description": "OOTI is designed and built to meet the needs of your architecture firm, OOTI is the smartest project management software available today. Whether you are a freelancer, running a startup, a small business or a large company, OOTI will help you track projects, time, resources and finances.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "React Native", "color": "#61DBFB" },
-        { "name": "Redux", "color": "#764abc" }
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
       ],
       "type": "mobile"
     },
@@ -51,8 +78,14 @@
       "description": "Train Effective is digital Soccer academy.  This soccer training app delivers one of the most comprehensive learning platforms for aspiring soccer players of every level. Train Effective enables its members to experience professional academy-like soccer training at home. You will improve your 1. technique, 2. tactical knowledge, 3. fitness and 4. mentality.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "React Native", "color": "#61DBFB" },
-        { "name": "Redux", "color": "#764abc" }
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
       ],
       "type": "mobile"
     },
@@ -62,8 +95,14 @@
       "description": "Zaatar w Zeit UAE's mobile ordering app makes it easier to enjoy your favorite Zaatar w Zeit items, without the ordering hassle! Download our APP, browse through the different features, add, customize, save to your favorites, schedule, pay, and much more with a few clicks.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "React Native", "color": "#61DBFB" },
-        { "name": "Redux", "color": "#764abc" }
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
       ],
       "type": "mobile"
     },
@@ -73,8 +112,14 @@
       "description": "Deek Duke Go is Lebanon’s official mobile app for Food Ordering offering Scan, Play & Win Challenges. Also provide option to schedule delivery and various modes of payment and partial payments (which includes coins earned) while purchase.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "React Native", "color": "#61DBFB" },
-        { "name": "Redux", "color": "#764abc" }
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
       ],
       "type": "mobile"
     },
@@ -84,8 +129,14 @@
       "description": "Go Play Polo is the easiest way to stay connected to your waterpolo team! It is developed to help coaches and players manage their teams, practices and games all in one app.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "React Native", "color": "#61DBFB" },
-        { "name": "Redux", "color": "#764abc" }
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Redux",
+          "color": "#764abc"
+        }
       ],
       "type": "mobile"
     },
@@ -95,8 +146,14 @@
       "description": "THE LOOK is THE DESTINATION for personal stylists, shoppers, and fashion designers. On THE LOOK, clothing is exciting, interactive, and fun.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "React Native", "color": "#61DBFB" },
-        { "name": "Expo", "color": "#fff" }
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Expo",
+          "color": "#fff"
+        }
       ],
       "type": "mobile"
     },
@@ -106,8 +163,14 @@
       "description": "Saarthi manages B2B online for wholesale garments. This provides easy way to take stock from different hosiery parteners",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "Ionic", "color": "#498AFF" },
-        { "name": "Angular", "color": "#b52e31" }
+        {
+          "name": "Ionic",
+          "color": "#498AFF"
+        },
+        {
+          "name": "Angular",
+          "color": "#b52e31"
+        }
       ],
       "type": "mobile"
     },
@@ -117,8 +180,14 @@
       "description": "Roofing Proposal App for Home Owners & Roofing Contractors. Helps to find roofing contractor for your house roofing job quickly and conveniently.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "Ionic", "color": "#498AFF" },
-        { "name": "AngularJS", "color": "#dd1b16" }
+        {
+          "name": "Ionic",
+          "color": "#498AFF"
+        },
+        {
+          "name": "AngularJS",
+          "color": "#dd1b16"
+        }
       ],
       "type": "mobile"
     },
@@ -127,9 +196,18 @@
       "description": "MGSVY is acronym of Mahtma Gandhi Sarbat Vikas Yojna. This app is used to provide Govt. driven free facilities/benifits to Village/Rural people. Users can Signup/Login & Register via form in app to avail benifits.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "Flutter", "color": "#32b1ec" },
-        { "name": "React.js", "color": "#dd1b16" },
-        { "name": "Node.js", "color": "#68A063" }
+        {
+          "name": "Flutter",
+          "color": "#32b1ec"
+        },
+        {
+          "name": "React.js",
+          "color": "#dd1b16"
+        },
+        {
+          "name": "Node.js",
+          "color": "#68A063"
+        }
       ],
       "type": "stack"
     },
@@ -138,11 +216,33 @@
       "description": "Farm 360 is built for providing A-Z solutions for Farm operations. All fields can be located from map. It also maintain records for Workers, Fuel consumed etc",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
-        { "name": "Ionic", "color": "#498AFF" },
-        { "name": "React.js", "color": "#dd1b16" },
-        { "name": "Node.js", "color": "#68A063" }
+        {
+          "name": "Ionic",
+          "color": "#498AFF"
+        },
+        {
+          "name": "React.js",
+          "color": "#dd1b16"
+        },
+        {
+          "name": "Node.js",
+          "color": "#68A063"
+        }
       ],
       "type": "stack"
+    },
+    {
+      "name": "Arneja Foods 🌐",
+      "link": "https://www.arnejafoods.com/",
+      "description": "Arneja Foods provides show case of food products from different sellers at their platform to promote and sell from single place. They serve as one of big parteners of Amul.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Next JS",
+          "color": "#000"
+        }
+      ],
+      "type": "web"
     }
   ]
 }
