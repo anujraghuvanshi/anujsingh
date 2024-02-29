@@ -7,7 +7,7 @@ import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
 import config from '../../config'
-import profile from '../../images/anuj.png'
+import profile from '../../images/anuj.jpg'
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
