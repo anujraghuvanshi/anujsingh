@@ -41,6 +41,22 @@
       "class": "devicon-angularjs-plain"
     },
     {
+      "skillName": "GraphQL",
+      "class": "devicon-graphql-plain"
+    },
+    {
+      "skillName": "Axios",
+      "class": "devicon-axios-plain-wordmark"
+    },
+    {
+      "skillName": "Jest",
+      "class": "devicon-jest-plain"
+    },
+    {
+      "skillName": "Realm",
+      "class": "devicon-realm-plain"
+    },
+    {
       "skillName": "HTML",
       "class": "devicon-html5-plain"
     },
@@ -83,6 +99,14 @@
     {
       "skillName": "AWS",
       "class": "devicon-amazonwebservices-plain-wordmark"
+    },
+    {
+      "skillName": "Filezilla",
+      "class": "devicon-filezilla-plain"
+    },
+    {
+      "skillName": "Bash",
+      "class": "devicon-bash-plain"
     },
     {
       "skillName": "Gulp",
