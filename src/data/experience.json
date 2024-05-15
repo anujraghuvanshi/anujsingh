@@ -8,16 +8,16 @@
       "dateFrom": "Sept 2016",
       "dateTo": "May 2021",
       "info": [
-        "Develop products of American SaaS & Real Estate clients.",
+        "Developed products of American SaaS & Real Estate clients.",
         "Team Management along with Sprint & Release plans."
       ],
       "stack": [
-        "Ionic",
-        "Angularjs",
+        "React Native",
         "Objective C",
         "Swift",
         "React.js",
-        "React Native",
+        "Ionic",
+        "Angularjs",
         "Flutter"
       ],
       "logowidth": 80,
@@ -55,18 +55,19 @@
       "dateFrom": "Aug 2022",
       "dateTo": "Current",
       "info": [
-        "Develop products for Tele-communication industry.",
-        "Team Management along with Sprint & Release plans."
+        "Developing products for Tele-communication industry.",
+        "Team Management along with Sprint & Release plans.",
+        "Trainings to Freshers."
       ],
       "stack": [
-        "React.js",
+        "React Native",
         "Redux",
-        "Firebase",
         "Android",
         "iOS",
-        "React Native",
-        "Flutter",
-        "Genesys"
+        "Genesys",
+        "React.js",
+        "Firebase",
+        "Flutter"
       ],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #CA0000, #ed4043)",
