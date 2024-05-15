@@ -213,7 +213,7 @@
     },
     {
       "name": "Farm 360 📱,🌐",
-      "description": "Farm 360 is built for providing A-Z solutions for Farm operations. All fields can be located from map. It also maintain records for Workers, Fuel consumed etc",
+      "description": "Farm 360 is built for providing A-Z solutions for Farm operations. All fields can be located from map. It also maintain records for Workers, Fuel consumed etc.",
       "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
       "languages": [
         {
@@ -239,6 +239,31 @@
       "languages": [
         {
           "name": "Next JS",
+          "color": "#000"
+        }
+      ],
+      "type": "web"
+    },
+    {
+      "name": "Cine Superstars Club 🌐",
+      "link": "https://www.thecinesuperstarsclub.com/",
+      "description": "Cine Superstars Club website is developed for Film making industry where all professional full time workers are starting their careers in film industry and making short films.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Next JS",
+          "color": "#000"
+        },
+        {
+          "name": "Firebase",
+          "color": "#FFFF00"
+        },
+        {
+          "name": "Node.js",
+          "color": "#68A063"
+        },
+        {
+          "name": "Vercel",
           "color": "#000"
         }
       ],
