@@ -26,7 +26,7 @@ const Experience = () => {
             }}
           >
             <p style={{ textAlign: 'center' }}>
-              Further in-depth experience pre 2022 can be found on my{' '}
+              Further in-depth experience can be found on my{' '}
               <a
                 href="https://www.linkedin.com/in/itsanujraghuvanshi/"
                 target="_blank"

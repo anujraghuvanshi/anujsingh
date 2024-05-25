@@ -98,6 +98,12 @@
   margin-right: 5px;
 }
 
+.full-stack-platform {
+  width: 22px;
+  height: 25px;
+  margin-right: 5px;
+}
+
 @media screen and (max-width: 599px) {
   .project-card-wrapper:hover .project-card {
     background-color: #3b4353;

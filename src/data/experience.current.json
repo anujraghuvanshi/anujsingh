@@ -12,12 +12,12 @@
         "Team Management along with Sprint & Release plans."
       ],
       "stack": [
-        "React Native",
+        "Ionic",
+        "Angularjs",
         "Objective C",
         "Swift",
         "React.js",
-        "Ionic",
-        "Angularjs",
+        "React Native",
         "Flutter"
       ],
       "logowidth": 80,
@@ -28,7 +28,7 @@
       "id": 0,
       "link": "https://worksdelight.com/",
       "company": "Worksdelight",
-      "title": "Team Lead (JS / React.js / React Native)",
+      "title": "Sr. Mobile App Developer",
       "dateFrom": "May 2021",
       "dateTo": "July 2022",
       "info": [
@@ -52,21 +52,19 @@
       "link": "https://geekyants.com/",
       "company": "GeekyAnts",
       "title": "Sr. Software Engineer",
-      "dateFrom": "Aug 2022",
+      "dateFrom": "Aug 2021",
       "dateTo": "Current",
       "info": [
-        "Developing products for Tele-communication industry.",
-        "Team Management along with Sprint & Release plans.",
-        "Trainings to Freshers."
+        "Developing products of American SaaS & Real Estate clients.",
+        "Team Management along with Sprint & Release plans."
       ],
       "stack": [
-        "React Native",
-        "Redux",
-        "Android",
-        "iOS",
-        "Genesys",
+        "Ionic",
+        "Angularjs",
+        "Objective C",
+        "Swift",
         "React.js",
-        "Firebase",
+        "React Native",
         "Flutter"
       ],
       "logowidth": 80,

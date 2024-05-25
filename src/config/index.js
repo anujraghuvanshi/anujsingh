@@ -14,7 +14,7 @@ module.exports = {
         },
       },
       size: {
-        value: 50,
+        value: 25,
         random: true,
       },
       line_linked: {
