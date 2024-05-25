@@ -152,7 +152,19 @@
         },
         {
           "name": "Expo",
-          "color": "#fff"
+          "color": "#000"
+        },
+        {
+          "name": "AWS Amplify",
+          "color": "#ff9900"
+        },
+        {
+          "name": "AWS Cognito",
+          "color": "#ff9900"
+        },
+        {
+          "name": "GraphQL",
+          "color": "#dd34a6"
         }
       ],
       "type": "mobile"
@@ -202,7 +214,7 @@
         },
         {
           "name": "React.js",
-          "color": "#dd1b16"
+          "color": "#5fd3f3"
         },
         {
           "name": "Node.js",
@@ -222,7 +234,7 @@
         },
         {
           "name": "React.js",
-          "color": "#dd1b16"
+          "color": "#5fd3f3"
         },
         {
           "name": "Node.js",
