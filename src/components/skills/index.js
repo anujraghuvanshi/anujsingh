@@ -1,13 +1,13 @@
 import React, { useRef } from 'react'
 import IsVisible from 'react-is-visible'
 import { Fade } from 'react-reveal'
-import { skills } from '../../data/skills.json'
+import skillsData from '../../data/skills.json'
 import { useContainerDimensions } from '../../hooks'
 
 const Skills = () => {
   const skillsWrapper = useRef()
   const { width } = useContainerDimensions(skillsWrapper)
-
+  const { skills } = skillsData
   return (
     <Fade duration={1000}>
       <div style={{ position: 'relative', width: '100%', maxWidth: 600 }}>
@@ -18,10 +18,10 @@ const Skills = () => {
               style={
                 isVisibleSkillsWrapper
                   ? {
-                      transition: '1s opacity ease-in-out',
-                      transform: `translateX(0)`,
-                      opacity: 1,
-                    }
+                    transition: '1s opacity ease-in-out',
+                    transform: `translateX(0)`,
+                    opacity: 1,
+                  }
                   : {}
               }
             >
@@ -35,14 +35,13 @@ const Skills = () => {
                         style={
                           isVisibleSkillsWrapper
                             ? {
-                                transition: `${
-                                  1 + skills.id / 10
+                              transition: `${1 + skills.id / 10
                                 }s width ease-in-out`,
-                                width: width * (skills.amount / 100),
-                              }
+                              width: width * (skills.amount / 100),
+                            }
                             : {
-                                width: 1,
-                              }
+                              width: 1,
+                            }
                         }
                       ></div>
                       <div className="skill-name">{skills.skillName}</div>

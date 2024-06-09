@@ -74,7 +74,7 @@ const ContactForm = () => {
   const submitForm = (ev) => {
     ev.preventDefault()
     console.log('submitForm', emailText, messageText)
-    if(!emailText || !messageText) {
+    if (!emailText || !messageText) {
       setStatus('Please Complete the form to contact.')
       return
     }
@@ -133,7 +133,7 @@ const ContactForm = () => {
           value={messageText}
           onChange={handleMessageChange}
           multiline
-          rows="5"
+          minRows="5"
           variant="filled"
         />
         {status === 'SUCCESS' ? (
@@ -144,9 +144,9 @@ const ContactForm = () => {
           </Button>
         )}
         {status === 'ERROR' && <p>Ooops! There was an error.</p>}
-        {(status 
-          && status !== 'SUCCESS' 
-          && status !== 'ERROR')  && <p>{status}</p>
+        {(status
+          && status !== 'SUCCESS'
+          && status !== 'ERROR') && <p>{status}</p>
         }
       </form>
     </div>

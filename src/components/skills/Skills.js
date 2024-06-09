@@ -1,12 +1,13 @@
 import React, { useRef } from 'react'
 import IsVisible from 'react-is-visible'
 import { Fade } from 'react-reveal'
-import { skills } from '../../data/skills.json'
+import skillsData from '../../data/skills.json'
 import Section from '../section/Section'
 import './skills.css'
 
 const Skills = () => {
 	const skillsWrapper = useRef()
+	const { skills } = skillsData
 
 	return (
 		<Section title="Skills">
@@ -27,11 +28,10 @@ const Skills = () => {
 											: {}
 									}
 								>
-									{/* <h2>Skills</h2> */}
 									<ul className="skills" ref={skillsWrapper}>
 										{skills.map((skill, i) => {
 											return (
-												
+
 												<li className="skill-bar-wrapper" key={i}>
 													<div style={{ marginTop: '11px' }}>
 														<i className={skill.class}></i>
