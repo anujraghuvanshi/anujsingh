@@ -16,11 +16,8 @@ const Project = ({ project, type }) => {
   }
 
   return (
-    <a
+    <div
       className="project-link"
-      href={project.url}
-      target="_blank"
-      rel="noopener noreferrer"
     >
       <div className="project-card-wrapper">
         <div className="project-card">
@@ -29,11 +26,6 @@ const Project = ({ project, type }) => {
             <h2 className="project-title">{project.name}</h2>
           </div>
           <p className="project-description">{project.description}</p>
-          {/* <div>
-            <div>
-              <p>Will add arrow icon here</p>
-            </div>
-          </div> */}
           <div className="project-info">
             <div className="project-info-left">
               {project.languages.map((language) => (
@@ -60,7 +52,7 @@ const Project = ({ project, type }) => {
           </div>
         </div>
       </div>
-    </a>
+    </div>
   )
 }
 
