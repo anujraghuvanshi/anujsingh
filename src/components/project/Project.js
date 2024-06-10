@@ -12,7 +12,7 @@ const Project = ({ project, type }) => {
     if (project.type === 'web') {
       return <img className='web-platform' src={require('../../images/www.png')} alt="Tech" />
     }
-    return <img className='full-stack-platform' src={require('../../images/stack.svg')} alt="Tech" />
+    return <img className='full-stack-platform' src={require('../../images/stack.png')} alt="Tech" />
   }
 
   return (
