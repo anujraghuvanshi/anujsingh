@@ -1,4 +1,5 @@
 import React from 'react'
+import { Analytics } from '@vercel/analytics/react';
 import './App.css'
 import Home from './components/home/Home'
 import About from './components/about/About'
@@ -12,6 +13,7 @@ import TopButton from './components/topButton/TopButton'
 function App() {
   return (
     <div className="App">
+      <Analytics />
       <Home />
       <About />
       <Skills />
