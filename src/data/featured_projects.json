@@ -244,6 +244,35 @@
       "type": "stack"
     },
     {
+      "name": "Hospitals Connect 📱,🌐",
+      "description": "HospitalsConnect is a listing directory platform connecting people with hospitals, laboratories and health care providers generally. (Services provided in Nigeria only)",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "link": "https://apps.apple.com/us/app/hospitals-connect-app/id6443836490",
+      "languages": [
+        {
+          "name": "React.js",
+          "color": "#5fd3f3"
+        },
+        {
+          "name": "Firebase",
+          "color": "#FFFF00"
+        },
+        {
+          "name": "React Native",
+          "color": "#61DBFB"
+        },
+        {
+          "name": "Node.js",
+          "color": "#68A063"
+        },
+        {
+          "name": "Vercel",
+          "color": "#000"
+        }
+      ],
+      "type": "stack"
+    },
+    {
       "name": "Arneja Foods 🌐",
       "link": "https://www.arnejafoods.com/",
       "description": "Arneja Foods provides show case of food products from different sellers at their platform to promote and sell from single place. They serve as one of big parteners of Amul.",
