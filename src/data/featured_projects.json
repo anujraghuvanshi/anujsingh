@@ -330,6 +330,19 @@
         }
       ],
       "type": "web"
+    },
+    {
+      "name": "PopProbe",
+      "link": "https://apps.apple.com/in/app/popprobe/id1617582763",
+      "description": "POPProbe is a provider of SaaS-based retail execution & operational solution. The solution helps retail operations and in-store execution to reduce time on mundane activities.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Expo",
+          "color": "#000"
+        }
+      ],
+      "type": "mobile"
     }
   ]
 }
