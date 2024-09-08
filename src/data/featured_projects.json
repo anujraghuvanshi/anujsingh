@@ -309,6 +309,27 @@
         }
       ],
       "type": "web"
+    },
+    {
+      "name": "Ethereum Logistics Application 🌐",
+      "link": "https://github.com/GeekyAnts/ethereum-logistics-application",
+      "description": "Blockchain based Pickup and delivery app (Inspired from Dunzo). The project on github includes Blockchain contracts in both Hardhat and Solidity.",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        {
+          "name": "Ethereum",
+          "color": "#000"
+        },
+        {
+          "name": "Solidity",
+          "color": "#000"
+        },
+        {
+          "name": "React.js",
+          "color": "#5fd3f3"
+        }
+      ],
+      "type": "web"
     }
   ]
 }
