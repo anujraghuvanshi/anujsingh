@@ -5,6 +5,7 @@ import { Bounce } from 'react-reveal'
 import ContactForm from '../contactForm/ContactForm'
 import linkedin from '../../images/social/linkedin.png'
 import github from '../../images/social/github.png'
+import instagram from '../../images/social/instagram.png'
 import twitter from '../../images/social/twitter.png'
 import Stackoverflow from '../../images/social/stackoverflow.png'
 
@@ -36,6 +37,14 @@ const Contact = () => {
             rel="noopener noreferrer"
           >
             <img src={linkedin} alt="Linkedin Logo" width="40px" />
+          </a>
+
+          <a
+            href="https://www.instagram.com/javascript_essentials/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={instagram} alt="Instagram Logo" width="40px" />
           </a>
 
           <a
