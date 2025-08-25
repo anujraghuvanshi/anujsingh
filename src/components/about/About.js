@@ -12,15 +12,15 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>About Anuj Singh - Software Engineer & Mobile App Developer</title>
+        <title>Anuj Singh - Software Engineer & Mobile App Developer</title>
         <meta name="description" content="Learn more about Anuj Singh, a passionate software engineer with expertise in mobile app development, React Native, and full-stack technologies. Based in Punjab, India." />
-        <meta name="keywords" content="about Anuj Singh, software engineer background, mobile app developer experience, React Native developer, MCA Lovely Professional University" />
-        <meta property="og:title" content="About Anuj Singh - Software Engineer & Mobile App Developer" />
-        <meta property="og:description" content="Learn more about Anuj Singh, a passionate software engineer with expertise in mobile app development, React Native, and full-stack technologies." />
+        <meta name="keywords" content="Anuj Singh, software engineer background, mobile app developer experience, React Native developer, MCA Lovely Professional University" />
+        <meta property="og:title" content="Anuj Singh - Software Engineer & Mobile App Developer" />
+        <meta property="og:description" content="Learn more Anuj Singh, a passionate software engineer with expertise in mobile app development, React Native, and full-stack technologies." />
         <meta property="og:type" content="profile" />
         <meta property="og:image" content="https://www.anujraghuvanshi.site/anuj.jpg" />
-        <meta name="twitter:title" content="About Anuj Singh - Software Engineer & Mobile App Developer" />
-        <meta name="twitter:description" content="Learn more about Anuj Singh, a passionate software engineer with expertise in mobile app development." />
+        <meta name="twitter:title" content="Anuj Singh - Software Engineer & Mobile App Developer" />
+        <meta name="twitter:description" content="Learn more Anuj Singh, a passionate software engineer with expertise in mobile app development." />
         <meta name="twitter:image" content="https://www.anujraghuvanshi.site/anuj.jpg" />
 
         {/* Structured Data for Person */}

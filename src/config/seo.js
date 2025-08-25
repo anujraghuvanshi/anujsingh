@@ -16,9 +16,9 @@ export const seoConfig = {
   },
 
   about: {
-    title: "About Anuj Singh - Software Engineer & Mobile App Developer",
-    description: "Learn more about Anuj Singh, a passionate software engineer with expertise in mobile app development.",
-    keywords: "about Anuj Singh, software engineer background, mobile app developer experience"
+    title: "Anuj Singh - Software Engineer & Mobile App Developer",
+    description: "Learn more Anuj Singh, a passionate software engineer with expertise in mobile app development.",
+    keywords: "Anuj Singh, software engineer background, mobile app developer experience"
   },
 
   skills: {
