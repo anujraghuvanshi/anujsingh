@@ -1,6 +1,8 @@
 import React from 'react'
 import { Analytics } from '@vercel/analytics/react';
+import { HelmetProvider } from 'react-helmet-async';
 import './App.css'
+import SEO from './components/seo'
 import Home from './components/home/Home'
 import About from './components/about/About'
 import Skills from './components/skills/Skills'
@@ -12,17 +14,20 @@ import TopButton from './components/topButton/TopButton'
 
 function App() {
   return (
-    <div className="App">
-      <Analytics />
-      <Home />
-      <About />
-      <Skills />
-      <Experience />
-      <Projects />
-      <Contact />
-      <Footer />
-      <TopButton />
-    </div>
+    <HelmetProvider>
+      <div className="App">
+        <SEO />
+        <Analytics />
+        <Home />
+        <About />
+        <Skills />
+        <Experience />
+        <Projects />
+        <Contact />
+        <Footer />
+        <TopButton />
+      </div>
+    </HelmetProvider>
   )
 }
 
